@@ -18,7 +18,7 @@
 
 - Nah
 
-### IP Law in games
+## IP Law in games
 - [YOUR SECOND LIFE? Goodwill and the performativity of intellectual property in online digital gaming](https://www.researchgate.net/profile/Rosemary_Coombe/publication/232929545_YOUR_SECOND_LIFE/links/56a7fc8208ae997e22bc29f7.pdf)
 - [“Whose Game Is This Anyway?”: Negotiating Corporate Ownership in a Virtual World](http://www.digra.org/wp-content/uploads/digital-library/05164.58571.pdf)
 - [California Law Review](http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1476&context=californialawreview)
