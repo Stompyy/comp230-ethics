@@ -1,28 +1,8 @@
-# comp230-ethics
+﻿# comp230-ethics
 
-## Given ideas
+## Ethical modding and intellectual property protection.
 
-### Representation in Games
-
-- diversity
-- gender
-- race
-- religion
-
-### Violent Games
-
-- Crime
-- Desensitisation
-
-### Game Addiction
-
-- Nah
-
-## IP Law in games
-- [YOUR SECOND LIFE? Goodwill and the performativity of intellectual property in online digital gaming](https://www.researchgate.net/profile/Rosemary_Coombe/publication/232929545_YOUR_SECOND_LIFE/links/56a7fc8208ae997e22bc29f7.pdf)
-- [“Whose Game Is This Anyway?”: Negotiating Corporate Ownership in a Virtual World](http://www.digra.org/wp-content/uploads/digital-library/05164.58571.pdf)
-- [California Law Review](http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1476&context=californialawreview)
-- [Digital Consumer Networks and Producer-Consumer Collaboration: Innovation and Product Development in the Video Game Industry](https://www.researchgate.net/profile/Karl_Lang2/publication/220591472_Digital_Consumer_Networks_and_Producer-Consumer_Collaboration_Innovation_and_Product_Development_in_the_Video_Game_Industry/links/56aa3b3e08aeaeb4cefaf3a2.pdf)
-- [Video Game Appropriation through Modifications Attitudes Concerning Intellectual Property among Modders and Fans](http://journals.sagepub.com/doi/abs/10.1177/1354856507084419)
-- [The Intellectual Property Renaissance in Cyberspace: Why Copyright Law Could Be Unimportant on the Internet](http://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1542&context=facpubs)
-
+Game modifications (mods) can undoubtedly offer great rewards to all parties. For the modification developer, the opportunity to 'stand on the shoulders of giants' can easily and quickly enable a quality of product similar to the original game.  
+For the owner of the original intellectual property (IP), an inflated fan base can increase sales, market presence, and pave the way for new IPs; Team fortress, Counter-Strike, and Portal all began as mods for Half-Life.  
+So why do many developers decide not to support mods? Fuelled with anonymity, inappropriate content can hurt the IP owner's reputation, and distract from the developer's original design. In some cases, mods become IPs in their own right, and the question of who owns user-created content can be prevalent.  
+What alternatives are there to releasing a game's source code to the modding community, and what measures, technically and legally, are there to protect the IP against unprofessional conduct and unethical content?  
